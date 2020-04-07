@@ -18,3 +18,9 @@ appData.expenses.a = b;
 
 alert(appData.budget/30);
 
+/*
+1)В js 6 типов данных
+2)console.log("информация")
+3)|| - логическое или
+  && - логическое и
+*/
